@@ -1,29 +1,32 @@
-🌐 Textotech - Plataforma Completa de Tradução de Textos
-Projeto pessoal de um site completo para tradução e gerenciamento de textos, utilizando HTML, CSS, JavaScript, integração com API de tradução, JSP no back-end, e MySQL para persistência dos dados.
+🌐 Textotech – Complete Text Translation Platform
 
-📚 Sobre o Projeto
-O Textotech é uma aplicação web que permite ao usuário traduzir textos entre diferentes idiomas e também gerenciar um CRUD de traduções: armazenar, visualizar, editar e excluir traduções feitas.
+Personal project of a full website for text translation and management, using HTML, CSS, JavaScript, integration with a translation API, JSP in the back-end, and MySQL for data persistence.
 
-O projeto foi desenvolvido com o objetivo de praticar um sistema full stack completo, integrando front-end, back-end e banco de dados, além de consumo de APIs externas.
+📚 About the Project
 
-🚀 Funcionalidades
-✍️ Área para digitação de textos a serem traduzidos.
+Textotech is a web application that allows users to translate texts between different languages and also manage a CRUD of translations: storing, viewing, editing, and deleting translations made.
+The project was developed to practice a complete full stack system, integrating front-end, back-end, and database, along with consuming external APIs.
 
-🌎 Escolha do idioma de origem e destino.
+🚀 Features
 
-🔄 Tradução automática usando API externa de tradução.
+✍️ Area to type texts to be translated
 
-💾 CRUD completo de traduções:
+🌎 Selection of source and target languages
 
-Criar: Salvar traduções realizadas.
+🔄 Automatic translation using an external translation API
 
-Ler: Listar traduções armazenadas no MySQL.
+💾 Full CRUD for translations:
 
-Atualizar: Editar textos e suas traduções.
+Create: Save completed translations
 
-Deletar: Remover traduções do banco de dados.
+Read: List translations stored in MySQL
 
-📋 Interface moderna, responsiva e fácil de usar.
+Update: Edit texts and their translations
 
-⚙️ Tecnologias Utilizadas
-<div style="display: flex; flex-wrap: nowrap; align-items: center;"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://jakarta.ee/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="jsp" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> </div>
+Delete: Remove translations from the database
+
+📋 Modern, responsive, and user-friendly interface
+
+⚙️ Technologies Used
+
+<div style="display: flex; flex-wrap: nowrap; align-items: center; gap: 8px;"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jakarta.ee/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="jsp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </div>
